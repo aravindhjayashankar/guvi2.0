@@ -10,6 +10,6 @@ else:
    while count < nterms:
        print(num2,end=' ')
        nth = num1 + num2
-       num1 = n2
+       num1 = num2
        num2 = nth
        count += 1
